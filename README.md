@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DenisOrlovDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Denis Orlov
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+    e-mail: orlov.ejc@gmail.com
+    tel.: +375293355410
+    tel.: +48570810453
+    telegram: @OrlovDenis
 
-<!---
-DenisOrlovDev/DenisOrlovDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
